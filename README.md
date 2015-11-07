@@ -1,2 +1,2 @@
 # RNADNA
-Returns DNA base pairs
+Returns the complementary RNA or DNA strand from text input.
